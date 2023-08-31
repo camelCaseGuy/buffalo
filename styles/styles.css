@@ -1,0 +1,17 @@
+body {
+  background-color: #cdab7d;
+  margin: auto;
+  width: 50%;
+}
+
+#container {
+  width: 940px;
+}
+
+#contact-info {
+  font-size: 2em;
+  text-align: right;
+  float: right;
+  position: relative;
+  top: -216px;
+}
